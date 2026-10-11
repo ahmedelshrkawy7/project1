@@ -50,6 +50,15 @@ function Footer() {
       <a href="#book" className="hover:text-brandGold transition-colors">
         Book Table
       </a>
+      <span className="w-px h-6 bg-gray-700"></span>
+      <a href="#book" className="hover:text-brandGold transition-colors">
+        Book 2 Table
+      </a>
+      <span className="w-px h-6 bg-gray-700"></span>
+      <a href="#book" className="hover:text-brandGold transition-colors">
+        Book Table
+      </a>
+      
     </div>
   </header>;
 }
