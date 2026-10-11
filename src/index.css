@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@500;600;700&family=Open+Sans:wght@400;600&display=swap");
+
+@theme {
+  --color-brandDark: #0c0c0c;
+  --color-brandGold: #dcca87;
+  --color-brandGray: #aaaaaa;
+  --font-serif: "Cormorant Upright", serif;
+  --font-sans: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: var(--color-brandDark);
+  color: #ffffff;
+  font-family: var(--font-sans);
+}
